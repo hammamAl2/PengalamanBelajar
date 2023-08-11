@@ -1,3 +1,4 @@
 hello world saja
 
 1. fitur satu
+2. fitur dua
